@@ -1,0 +1,6 @@
+Para ejecutar por favor descarga las dependencias
+
+sudo apt install python3-pip
+sudo apt install python-tk
+pip3 install pytube
+pip3 install plyer
